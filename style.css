@@ -48,10 +48,12 @@ img {
 
 .gif_huh {
   display: flex;
+  justify-content: center;
 }
 .gif_huh img {
-  width: 33%;
+  width: 50%;
   margin: 20px 0;
+  height: 400px;
 }
 /* Navigation bar */
 
